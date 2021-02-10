@@ -1,6 +1,7 @@
 # Watch it online
 
-[Budget and expenses](https://determined-jones-45fd27.netlify.app/)
+[Budget and expenses](https://determined-jones-45fd27.netlify.app/).
+
 This is a project created with React technology, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
