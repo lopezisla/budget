@@ -1,10 +1,10 @@
 .alert p {
-  margin-bottom: 0 !important;
+  margin-bottom: 0!important;
 }
 body {
-  background: #000428; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #004e92, #000428);
-  background: linear-gradient(to right, #004e92, #000428);
+  background: #000428;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #004e92, #000428);  
+  background: linear-gradient(to right, #004e92, #000428); 
   margin: 0;
   padding: 0;
   font-family: sans-serif;
@@ -13,14 +13,14 @@ header {
   margin: 30px 0;
 }
 .contenido {
-  padding: 20px;
+  padding:20px;
 }
 .contenido-principal {
   background-color: white;
   padding: 30px;
   border-radius: 20px;
 }
-.presupuesto p {
+.presupuesto p{
   margin-bottom: 0;
   font-weight: bold;
 }
@@ -31,18 +31,18 @@ header {
   margin-bottom: 30px;
 }
 h1 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 100;
   color: white;
   text-align: center;
-  font-size: 4.8rem !important;
+  font-size: 4.8rem!important;
 }
 h2 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 100;
-  color: #004e92;
-  margin-bottom: 30px;
-  font-size: 3rem !important;
+  color:#004e92;
+  margin-bottom:30px;
+  font-size:3rem!important;
   text-align: center;
 }
 .campo {
@@ -53,10 +53,10 @@ h2 {
 }
 .alert {
   position: relative;
-  padding: 0.75rem 1.25rem;
+  padding: .75rem 1.25rem;
   margin-bottom: 1rem;
   border: 1px solid transparent;
-  border-radius: 0.25rem;
+  border-radius: .25rem;
 }
 .alert-primary {
   color: #004085;
@@ -78,26 +78,26 @@ h2 {
   background-color: #fff3cd;
   border-color: #ffeeba;
 }
-.gastos-realizados {
+.gastos-realizados  {
   margin-bottom: 2rem;
 }
-.gastos-realizados li {
+.gastos-realizados li{
   list-style: none;
   margin-bottom: 0rem;
   border-bottom: 1px solid #e1e1e1;
   padding: 1rem 0;
 }
 .gastos-realizados li:last-of-type {
-  margin-bottom: 0 !important;
+  margin-bottom: 0!important;
 }
 .gastos-realizados li p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0;
+  margin:0;
 }
 .gastos-realizados li p .gasto {
   background-color: #004085;
   padding: 1rem;
-  color: white;
+  color:white;
 }
